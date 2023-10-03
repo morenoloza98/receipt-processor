@@ -2,7 +2,7 @@ The goal of this repository is to give a solution for the challenge given by Fet
 
 To run said project, you may need to download [Docker](https://docs.docker.com/engine/install/) if not yet installed.
 
-If/When docker is installed run the following commands to be able to test the API using services such as [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to give examples.
+If/When docker is installed run the following commands to be able to test the API using services such as [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to give examples. You can also test the endpoints by visiting the /api-docs endpoint to see the documentation for them.
 
 `docker build -t receipt-processor .`
 
